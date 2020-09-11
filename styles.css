@@ -140,7 +140,7 @@ body {
 
 .section-features {
   padding: 20rem 0;
-  background-image: url(/img/street.png);
+  background-image: url(./img/street.png);
   background-size: cover;
   background-position: center;
   border-radius: 1.5rem;
@@ -370,19 +370,19 @@ body {
 }
 
 .card__picture--1 {
-  background-image: linear-gradient(to right bottom, #2998ff, #5643fa ), url(/img/valley.jpg);
+  background-image: linear-gradient(to right bottom, #2998ff, #5643fa ), url(./img/valley.jpg);
 }
 
 .card__picture--2 {
-  background-image: linear-gradient(to right bottom, #ffb900, #ff7730 ), url(/img/valley.jpg);
+  background-image: linear-gradient(to right bottom, #ffb900, #ff7730 ), url(./img/valley.jpg);
 }
 
 .card__picture--3 {
-  background-image: linear-gradient(to right bottom, #7F00FF, #BDA0CB), url(/img/waterfall.jpg);
+  background-image: linear-gradient(to right bottom, #7F00FF, #BDA0CB), url(./img/waterfall.jpg);
 }
 
 .card__picture--4 {
-  background-image: linear-gradient(to right bottom, #7F00FF, #BDA0CB), url(/img/waterfall.jpg);
+  background-image: linear-gradient(to right bottom, #7F00FF, #BDA0CB), url(./img/waterfall.jpg);
 }
 
 .card__heading {
